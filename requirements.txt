@@ -1,0 +1,8 @@
+pandas
+numpy
+tqdm
+requests
+bs4
+crossrefapi
+python-docx
+xlsxwriter
